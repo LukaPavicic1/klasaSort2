@@ -1,0 +1,8 @@
+C:\Users\Korisnik\source\repos\klasaSort2\klasaSort2\bin\Debug\klasaSort2.exe.config
+C:\Users\Korisnik\source\repos\klasaSort2\klasaSort2\bin\Debug\klasaSort2.exe
+C:\Users\Korisnik\source\repos\klasaSort2\klasaSort2\bin\Debug\klasaSort2.pdb
+C:\Users\Korisnik\source\repos\klasaSort2\klasaSort2\obj\Debug\klasaSort2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\klasaSort2\klasaSort2\obj\Debug\klasaSort2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\source\repos\klasaSort2\klasaSort2\obj\Debug\klasaSort2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\klasaSort2\klasaSort2\obj\Debug\klasaSort2.exe
+C:\Users\Korisnik\source\repos\klasaSort2\klasaSort2\obj\Debug\klasaSort2.pdb
